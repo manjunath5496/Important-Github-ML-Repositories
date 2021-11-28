@@ -209,7 +209,7 @@
 <li><a href="https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow" target="_blank">Reinforcement Learning</a></li>
 <li><a href="https://github.com/omarsar/nlp_overview">NLP Overview</a></li>
 <li><a href="https://github.com/mathsyouth/awesome-text-summarization" target="_blank">Text Summarization</a></li>
-<li><a href="https://github.com/benedekrozemberczki/awesome-community-detection" target="_blank"><strong>Community Detection</strong></a></li>
+<li><a href="https://github.com/benedekrozemberczki/awesome-community-detection" target="_blank">Community Detection</a></li>
   
   
   
