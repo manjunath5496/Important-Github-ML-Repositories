@@ -178,4 +178,41 @@
 <li><a href="https://github.com/ethen8181/machine-learning" target="_blank">Machine Learning Tutorials</a></li>
 <li><a href="https://github.com/ethen8181/machine-learning" target="_blank">TensorFlow Examples</a></li>
 <li><a href="https://github.com/ethen8181/machine-learning" target="_blank">Quantum Machine Learning</a></li>
+<li><a href="https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security" target="_blank">Machine Learning for Cyber Security</a>&nbsp;</li>
+<li><a href="https://github.com/owainlewis/awesome-artificial-intelligence" target="_blank">Awesome Artificial Intelligence</a></li>
+<li><a href="https://github.com/louisfb01/start-machine-learning" target="_blank">Start Machine Learning in 2021</a></li>
+<li><a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank">Projects</a>&nbsp;</li>
+<li><a href="https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning" target="_blank">Mobile Machine Learning</a>&nbsp;</li>
+<li><a href="https://github.com/metrofun/machine-learning-surveys" target="_blank">Machine Learning Surveys</a>&nbsp;</li>
+<li><a href="https://github.com/eriklindernoren/ML-From-Scratch" target="_blank">Machine Learning From Scratch</a>&nbsp;</li>
+<li><a href="https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning" target="_blank">System for ML</a></li>
+<li><a href="https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading" target="_blank">Quant Machine Learning Trading</a></li>
+<li><a href="https://github.com/jivoi/awesome-ml-for-cybersecurity" target="_blank">Awesome ML for Cyber Security</a>&nbsp;</li>
+<li><a href="https://github.com/rushter/MLAlgorithms" target="_blank">Machine Learning Algorithms</a>&nbsp;</li>
+<li><a href="https://github.com/huseinzol05/Stock-Prediction-Models" target="_blank">Stock Prediction Models</a></li>
+<li><a href="https://github.com/lukas/ml-class" target="_blank">Deep Learning Projects</a>&nbsp;</li>
+<li><a href="https://github.com/huseinzol05/NLP-Models-Tensorflow" target="_blank">Models</a></li>
+<li><a href="https://github.com/kjw0612/awesome-deep-vision" target="_blank">Deep Vision</a>&nbsp;</li>
+<li><a href="https://github.com/NirantK/awesome-project-ideas" target="_blank">Deep Learning Project Ideas</a>&nbsp;</li>
+<li><a href="https://github.com/pliang279/awesome-multimodal-ml" target="_blank">Multimodal ML</a>&nbsp;</li>
+<li><a href="https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd" target="_blank">TensorFlow without a PHD</a>&nbsp;</li>
+<li><a href="https://github.com/arbox/machine-learning-with-ruby" target="_blank">Machine Learning With Ruby</a></li>
+<li><a href="https://github.com/naganandy/graph-based-deep-learning-literature" target="_blank">Graph-based Deep Learning</a></li>
+<li><a href="https://github.com/weiaicunzai/awesome-image-classification" target="_blank">Image Classification</a></li>
+<li><a href="https://github.com/sbrugman/deep-learning-papers" target="_blank">Deep Learning Papers By Task</a></li>
+<li><a href="https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection" target="_blank">Deep Learning For Tracking &amp; Detection</a></li>
+<li><a href="https://github.com/DeepGraphLearning/LiteratureDL4Graph" target="_blank">Graph Deep Learning</a></li>
+<li><a href="https://github.com/vinta/awesome-python" target="_blank">Awesome Python</a></li>
+<li><a href="https://github.com/spmallick/learnopencv" target="_blank">LearnOpenCV</a></li>
+<li><a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap" target="_blank">Roadmaps</a></li>
+<li><a href="https://github.com/heartexlabs/awesome-data-labeling" target="_blank">Tools</a></li>
+<li><a href="https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow" target="_blank">Reinforcement Learning</a></li>
+<li><a href="https://github.com/omarsar/nlp_overview">NLP Overview</a></li>
+<li><a href="https://github.com/mathsyouth/awesome-text-summarization" target="_blank">Text Summarization</a></li>
+<li><a href="https://github.com/benedekrozemberczki/awesome-community-detection" target="_blank"><strong>Community Detection</strong></a></li>
+  
+  
+  
+  
+  
 </ul>  
