@@ -211,7 +211,48 @@
 <li><a href="https://github.com/mathsyouth/awesome-text-summarization" target="_blank">Text Summarization</a></li>
 <li><a href="https://github.com/benedekrozemberczki/awesome-community-detection" target="_blank">Community Detection</a></li>
   
-  
+<li><a href="https://github.com/D-X-Y/Awesome-AutoDL" target="_blank">AutoDL</a></li>
+<li><a href="https://github.com/shaoxiongji/knowledge-graphs" target="_blank">Knowledge Graphs</a></li>
+<li><a href="https://github.com/NiuTrans/ABigSurvey" target="_blank">NLP &amp; Machine Learning Surveys</a></li>
+<li><a href="https://github.com/fuzhenxin/Style-Transfer-in-Text" target="_blank">Style Transfer In Text</a></li>
+<li><a href="https://github.com/bharathgs/Awesome-pytorch-list" target="_blank">Awesome Pytorch</a></li>
+<li><a href="https://github.com/thunlp/TAADpapers" target="_blank">Textual Adversarial Attack and Defense</a></li>
+<li><a href="https://github.com/Kyubyong/nlp_tasks" target="_blank">NLP Tasks</a></li>
+<li><a href="https://github.com/Developer-Y/cs-video-courses#artificial-intelligence" target="_blank">Courses And Video Lectures</a></li>
+<li><a href="https://github.com/openMVG/awesome_3DReconstruction_list" target="_blank">3D Reconstruction</a></li>
+<li><a href="https://github.com/xinghaochen/awesome-hand-pose-estimation" target="_blank">Human Pose Estimation</a></li>
+<li><a href="https://github.com/balavenkatesh3322/CV-pretrained-model" target="_blank">Pretrained Models</a></li>
+<li><a href="https://github.com/hwalsuklee/awesome-deep-text-detection-recognition" target="_blank">Text Detection and Recognition</a></li>
+<li><a href="https://github.com/lzhbrian/image-to-image-papers" target="_blank">Image To Image</a></li>
+<li><a href="https://github.com/sekwiatkowski/awesome-capsule-networks" target="_blank">Capsule Networks</a></li>
+<li><a href="https://github.com/unrealcv/synthetic-computer-vision" target="_blank">Synthetic Computer Vision</a></li>
+<li><a href="https://github.com/weihaox/awesome-neural-rendering" target="_blank">Neural Rendering</a></li>
+<li><a href="https://github.com/dragen1860/TensorFlow-2.x-Tutorials" target="_blank">TensorFlow 2.x Tutorials</a>&nbsp;</li>
+<li><a href="https://github.com/AgaMiko/data-augmentation-review" target="_blank">Data Augmentation</a></li>
+<li><a href="https://github.com/MaxBenChrist/awesome_time_series_in_python" target="_blank">Time Series in Python</a></li>
+<li><a href="https://github.com/hoya012/awesome-anomaly-detection" target="_blank">Anomaly Detection</a></li>
+<li><a href="https://github.com/hibayesian/awesome-automl-papers" target="_blank">AutoML</a></li>
+<li><a href="https://github.com/cbailes/awesome-deep-trading" target="_blank">Deep / Algorithmic Trading</a></li>
+<li><a href="https://github.com/jinwchoi/awesome-action-recognition" target="_blank">Action Recognition</a>&nbsp;</li>
+<li><a href="https://github.com/amusi/awesome-object-detection" target="_blank">Object Detection</a></li>
+<li><a href="https://github.com/rasbt/pattern_classification" target="_blank">Pattern Classification</a></li>
+<li><a href="https://github.com/robmarkcole/satellite-image-deep-learning" target="_blank">Satellite Imagery</a>&nbsp;</li>
+<li><a href="https://github.com/vahidk/EffectiveTensorflow" target="_blank">Effective TensorFlow 2</a>&nbsp;</li>
+<li><a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials" target="_blank">TensorFlow Tutorials</a>&nbsp;</li>
+<li><a href="https://github.com/zhangqianhui/AdversarialNetsPapers" target="_blank">Adversarial Nets Papers</a></li>
+<li><a href="https://github.com/dair-ai/nlp_paper_summaries" target="_blank">Paper Summaries</a></li>
+<li><a href="https://github.com/mbadry1/DeepLearning.ai-Summary" target="_blank">Deep Learning.AI Course Summary</a>&nbsp;</li>
+<li><a href="https://github.com/instillai/deep-learning-roadmap" target="_blank">Deep Learning Roadmap</a>&nbsp;</li>
+<li><a href="https://github.com/onnx/models" target="_blank">Models</a>&nbsp;</li>
+<li><a href="https://github.com/jason718/awesome-self-supervised-learning" target="_blank">Self Supervised Learning</a>&nbsp;</li>
+<li><a href="https://github.com/microsoft/nlp-recipes" target="_blank">NLP Best Practices</a></li>
+<li><a href="https://github.com/poloclub/cnn-explainer" target="_blank">CNN Explainer</a></li>
+<li><a href="https://github.com/ChanChiChoi/awesome-Face_Recognition" target="_blank">Face Recognition</a></li>
+<li><a href="https://github.com/aymericdamien/TopDeepLearning" target="_blank">Open Source Projects</a></li>
+<li><a href="https://github.com/hongleizhang/RSPapers" target="_blank">Recommender System</a>&nbsp;</li>
+<li><a href="https://github.com/foolwood/benchmark_results" target="_blank">Visual Tracking Papers</a>&nbsp;</li>
+<li><a href="https://github.com/wzhe06/Ad-papers" target="_blank">Computational Advertising Papers</a></li>
+<li><a href="https://github.com/andri27-ts/Reinforcement-Learning" target="_blank">60 Days Of Deep Reinforcement Learning</a></li>  
   
   
   
