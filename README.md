@@ -158,4 +158,24 @@
 </li>
 <li style="text-align: left;">
 <a href="https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems" target="_blank">State-of-the-art result for all Machine Learning Problems</a>&nbsp; </li>
-  
+<li><a href="https://github.com/aleju/papers" target="_blank">Machine Learning Papers Summaries</a>&nbsp;</li>
+<li><a href="https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection" target="_blank">Tracking &amp; Detection</a>&nbsp;</li>
+<li><a href="https://github.com/GauravBh1010tt/DeepLearn" target="_blank">DeepLearn Implementation</a>&nbsp;</li>
+<li><a href="https://github.com/ageron/handson-ml" target="_blank">Machine Learning Notebooks</a></li>
+<li><a href="https://github.com/Avik-Jain/100-Days-Of-ML-Code" target="_blank">100 Days of Machine Learning Challenge</a></li>
+<li><a href="https://github.com/donnemartin/awesome-aws" target="_blank">Awesome AWS</a>&nbsp;</li>
+<li><a href="https://github.com/endymecy/awesome-deeplearning-resources" target="_blank">Deep Learning Research Papers</a>&nbsp;</li>
+<li><a href="https://github.com/likedan/Awesome-CoreML-Models" target="_blank">Core ML Models</a>&nbsp;</li>
+<li><a href="https://github.com/Vedenin/useful-java-links#ii-databases-search-engines-big-data-and-machine-learning" target="_blank">Useful Java Links</a></li>
+<li><a href="https://github.com/hindupuravinash/the-gan-zoo" target="_blank">The GAN Zoo</a></li>
+<li><a href="https://github.com/benedekrozemberczki/awesome-decision-tree-papers" target="_blank">Decision Tree Research Papers</a></li>
+<li><a href="https://github.com/rwightman/pytorch-image-models" target="_blank">PyTorch Image Models</a></li>
+<li><a href="https://github.com/jslee02/awesome-robotics-libraries" target="_blank">Robotics</a></li>
+<li><a href="https://github.com/firmai/machine-learning-asset-management" target="_blank">Machine Learning in Asset Management</a></li>
+<li><a href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide" target="_blank">From Zero to Research Scientist Full Resources Guide</a></li>
+<li><a href="https://github.com/alirezadir/machine-learning-interview-enlightener/blob/main/README.md" target="_blank">Machine Learning Interviews</a>&nbsp;</li>
+<li><a href="https://github.com/DeepGraphLearning/LiteratureDL4Graph" target="_blank">Deep Learning For Graphs</a>&nbsp;</li>
+<li><a href="https://github.com/ethen8181/machine-learning" target="_blank">Machine Learning Tutorials</a></li>
+<li><a href="https://github.com/ethen8181/machine-learning" target="_blank">TensorFlow Examples</a></li>
+<li><a href="https://github.com/ethen8181/machine-learning" target="_blank">Quantum Machine Learning</a></li>
+</ul>  
